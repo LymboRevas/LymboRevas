@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LymboRevas
 - 👀 I’m interested in life, programming, books, ideas, coffeeeeeee
-- 🌱 I’m currently learning advanced Python, SQL & noSQL, Docker
+- 🌱 I’m currently learning advanced Python, SQL & noSQL, Docker, HTML, CSS, JS
 - 💞️ I’m looking to collaborate on projects that involves these technologies
 - 📫 How to reach me : mail
 - ⚡ Fun fact: Pantheon anime tv-show is a possible future ?
